@@ -1,0 +1,16 @@
+body {
+	width: 600px;
+  	height: 650px;
+}
+.main-div {
+	width: 600px;
+	height: 650px;
+	position: relative;
+}
+.blue-box-div {
+	background-color: blue;
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-top: 50px;
+}
